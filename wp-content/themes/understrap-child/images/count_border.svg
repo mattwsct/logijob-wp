@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="35px" viewBox="0 0 65 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Combined Shape@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Item/Tooltip/Left-Border" stroke="#CEDEFF" stroke-width="1.5">
+            <g transform="translate(0.000000, 0.000000)" id="Combined-Shape">
+                <path d="M1.06066017,18 L5.75,22.6893398 L5.75,29.0031815 C5.75,31.8986639 8.10167533,34.25 11.0000383,34.25 L58.9999617,34.25 C61.8942765,34.25 64.25,31.897796 64.25,29.0031815 L64.25,5.99681848 C64.25,3.10133611 61.8983247,0.75 58.9999617,0.75 L11.0000383,0.75 C8.10572346,0.75 5.75,3.10220401 5.75,5.99681848 L5.75,13.3106602 L1.06066017,18 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
