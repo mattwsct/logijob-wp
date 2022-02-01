@@ -1,43 +1,42 @@
 // Use this file to overwrite the basic Bootstrap variables and add your own variables
-// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder. 
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder.
 // Just copy a variable from /sass/bootstrap/_variables.scss, paste it here and edit the value.
 // As example you find one of the most important Bootstrap variable below: $brand-primary.
 // Thats the ugly Bootstrap blue used for all the links, primary buttons etc.
 // Just add your color code here, compile the theme.scss file to change this color everywhere
 
-
 //
 // Color system
 //
 
-$primary: #3369F0; 
-$secondary: #EFF6FF;
-$highlight: #1AC1F3;
-$grey: #F1F1F1;
-$teal: #45CBD6;
-$agrum: #FF8A6A;
-$light-blue: #91B1E8;
-$pricing-secondary: #1AC1F3;
+$primary: #3369f0;
+$secondary: #eff6ff;
+$highlight: #1ac1f3;
+$grey: #f1f1f1;
+$teal: #45cbd6;
+$agrum: #ff8a6a;
+$light-blue: #91b1e8;
+$pricing-secondary: #1ac1f3;
 
 //
 // Images
 //
 
-$drunks: url('../images/shutterstock_drunks.jpg');
+$drunks: url("../images/shutterstock_drunks.jpg");
 
-$illustration-1: url('../images/illustration_01.svg');
-$illustration-2: url('../images/illustration_02.svg');
-$illustration-3: url('../images/illustration_03.svg');
-$illustration-4: url('../images/illustration_04.svg');
-$illustration-5: url('../images/illustration_05.svg');
-$illustration-6: url('../images/illustration_06.svg');
+$illustration-1: url("../images/illustration_01.svg");
+$illustration-2: url("../images/illustration_02.svg");
+$illustration-3: url("../images/illustration_03.svg");
+$illustration-4: url("../images/illustration_04.svg");
+$illustration-5: url("../images/illustration_05.svg");
+$illustration-6: url("../images/illustration_06.svg");
 
-$header-1: url('../images/header-bg.svg');
+$header-1: url("../images/header-bg.svg");
 
-$count-border: url('../images/count_border.svg');
+$count-border: url("../images/count_border.svg");
 
-$truck-left: url('../images/truck-left.svg');
-$truck-right: url('../images/truck-right.svg');
+$truck-left: url("../images/truck-left.svg");
+$truck-right: url("../images/truck-right.svg");
 
-$logo-white: url('../images/Logo_White@2x.png');
-$logo-black: url('../images/Logo_Black@2x.png');
+$logo-white: url("../images/Logo_White@2x.png");
+$logo-black: url("../images/Logo_Black@2x.png");
